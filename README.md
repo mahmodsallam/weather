@@ -1,5 +1,5 @@
 
-# Comics viewer app
+# weather App
 ## Project Overview
 
 This app uses the API from [weather App](https://openweathermap.org/api)
@@ -22,4 +22,4 @@ This app uses the API from [weather App](https://openweathermap.org/api)
 
 
 ## Screenshots
-<img src="https://github.com/mahmodsallam/shortcut/blob/master/app/1.png" width="250" margins="5px"> 
+<img src="https://github.com/mahmodsallam/weather/blob/master/1.png" width="250" margins="5px"> 
