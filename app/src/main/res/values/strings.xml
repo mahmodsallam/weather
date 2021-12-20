@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_here">Enter City Name to search....</string>
+    <string name="next">Next</string>
+    <string name="celisus">"\º"</string>
+    <string name="city_not_found">City not found</string>
+    <string name="enable_gps">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
