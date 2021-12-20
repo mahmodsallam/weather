@@ -17,6 +17,7 @@ This app uses the API from [weather App](https://openweathermap.org/api)
 - Live data
 - Repository pattern.
 - Retrofit.
+- Coroutines.
 
 
 
