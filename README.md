@@ -6,8 +6,8 @@ This app uses the API from [weather App](https://openweathermap.org/api)
 
 
 ## Features
-- Search city by city name.
-- get the current location and.
+- Search weather status by city name.
+- get the current location and get the current weather status.
 
 
 ## What I Used
