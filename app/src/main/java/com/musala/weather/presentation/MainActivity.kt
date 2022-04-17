@@ -81,6 +81,7 @@ class MainActivity : AppCompatActivity() {
         val manager = getSystemService(Context.LOCATION_SERVICE) as LocationManager
         if (!manager.isProviderEnabled(LocationManager.GPS_PROVIDER)) {
             buildAlertMessageNoGps()
+
         }
     }
 
